@@ -1,0 +1,52 @@
+.BreadBottom {
+    height: 50px;
+    width: auto;
+    background-color: sandybrown;
+    margin: 5px;
+    border-radius: 5px 5px 15px 15px;
+}
+
+.BreadTop {
+    height: 50px;
+    width: auto;
+    background-color: sandybrown;
+    margin: 5px;
+    border-radius: 15px 15px 5px 5px;
+}
+
+.Meat {
+    border-radius: 10px;
+    margin: 5px;
+    height: 30px;
+    width: auto;
+    background-color: brown;
+}
+
+.Cheese {
+    margin: 5px;
+    height: 15px;
+    width: auto;
+    background-color: yellow;
+}
+
+.Salad {
+    margin: 5px;
+    height: 20px;
+    width: auto;
+    background-color: limegreen;
+}
+
+.Bacon {
+    margin: 5px;
+    height: 20px;
+    width: auto;
+    background-color: darkred;
+}
+
+.Seeds1 {
+    background-color: saddlebrown;
+}
+
+.Seeds2 {
+    background-color: saddlebrown;
+}
