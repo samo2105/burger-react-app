@@ -1,17 +1,18 @@
+
+.BreadTop {
+    height: 60px;
+    width: auto;
+    background-color: sandybrown;
+    margin: 5px;
+    border-radius: 40px 40px 5px 5px;
+}
+
 .BreadBottom {
-    height: 50px;
+    height: 40px;
     width: auto;
     background-color: sandybrown;
     margin: 5px;
     border-radius: 5px 5px 15px 15px;
-}
-
-.BreadTop {
-    height: 50px;
-    width: auto;
-    background-color: sandybrown;
-    margin: 5px;
-    border-radius: 15px 15px 5px 5px;
 }
 
 .Meat {
@@ -19,28 +20,35 @@
     margin: 5px;
     height: 30px;
     width: auto;
-    background-color: brown;
+    background: rgb(244,31,49);
+    background: linear-gradient(175deg, rgba(244,31,49,1) 0%, rgba(173,8,8,1) 58%, rgba(189,2,2,1) 100%);
 }
 
 .Cheese {
     margin: 5px;
     height: 15px;
     width: auto;
-    background-color: yellow;
+    border-radius: 10px;
+    background: rgb(255,231,0);
+    background: linear-gradient(175deg, rgba(255,231,0,1) 0%, rgba(208,203,33,1) 51%, rgba(228,255,0,1) 100%);
 }
 
 .Salad {
     margin: 5px;
     height: 20px;
     width: auto;
-    background-color: limegreen;
+    background: rgb(35,145,0);
+    background: linear-gradient(175deg, rgba(35,145,0,1) 0%, rgba(86,173,8,1) 58%, rgba(0,255,21,1) 100%);
+    border-radius: 10px;
 }
 
 .Bacon {
     margin: 5px;
     height: 20px;
     width: auto;
-    background-color: darkred;
+    border-radius: 10px;
+    background: rgb(36,0,3);
+    background: linear-gradient(175deg, rgba(36,0,3,1) 0%, rgba(121,9,9,1) 58%, rgba(255,0,0,1) 100%);
 }
 
 .Seeds1 {
